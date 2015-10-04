@@ -1,0 +1,16 @@
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\MangaDownloader.exe.config
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\MangaDownloader.exe
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\MangaDownloader.pdb
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\MangaDownloader.Properties.Resources.resources
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\MangaDownloader.exe
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\MangaDownloader.pdb
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\MangaDownloader.MainDownloader.resources
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\obj\x86\Release\MangaDownloader.RequestBox.resources
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\Manga.DlPlugins.dll
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\Manga.DlPlugins.pdb
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\MangaDownloader\bin\Release\Downloader.ico

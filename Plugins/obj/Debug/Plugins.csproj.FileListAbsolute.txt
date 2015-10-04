@@ -1,0 +1,5 @@
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\Plugins\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\Plugins\bin\Debug\Plugins.dll
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\Plugins\bin\Debug\Plugins.pdb
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\Plugins\obj\Debug\Plugins.dll
+C:\Users\HaKko\documents\visual studio 2010\Projects\MangaDownloader\Plugins\obj\Debug\Plugins.pdb
