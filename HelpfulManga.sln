@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpfulManga", "HelpfulManga\HelpfulManga.csproj", "{AA077326-FC5C-4030-9E70-CCD1F1F15BD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iHelpfulEngine", "..\iHelpfulEngine\iHelpfulEngine\iHelpfulEngine.csproj", "{B5489F8E-0E0D-48D6-BCA5-556D3DF597AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA077326-FC5C-4030-9E70-CCD1F1F15BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA077326-FC5C-4030-9E70-CCD1F1F15BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA077326-FC5C-4030-9E70-CCD1F1F15BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA077326-FC5C-4030-9E70-CCD1F1F15BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5489F8E-0E0D-48D6-BCA5-556D3DF597AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5489F8E-0E0D-48D6-BCA5-556D3DF597AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5489F8E-0E0D-48D6-BCA5-556D3DF597AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5489F8E-0E0D-48D6-BCA5-556D3DF597AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
